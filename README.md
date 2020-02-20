@@ -1,3 +1,3 @@
 # MyApplication
 aidl客户端
-包含Mesenger调用方法
+包含Messenger调用demo
